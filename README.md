@@ -1,1 +1,1 @@
-# simplemodal
+# simple fenêtre modale
